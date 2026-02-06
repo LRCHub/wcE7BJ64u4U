@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ワールドイズマイン (CPK! Remix)",
+  "base_artist": "ryo (supercell)、初音ミク",
+  "createdAt": "2026-02-06T03:40:23.310577Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "supercell feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/01_ワールドイズマイン_supercell_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "ALVINE feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/02_ワールドイズマイン_ALVINE_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/03_ワールドイズマイン_supercell.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "supercell feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/04_ワールドイズマイン_supercell_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "supercell; 初音ミク",
+      "has_synced": false,
+      "path": "select/05_ワールドイズマイン_supercell;_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/06_ワールドイズマイン_supercell.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "supercell feat. Hatsune, Miku",
+      "has_synced": false,
+      "path": "select/07_ワールドイズマイン_supercell_feat._Hatsune,_Miku.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ワールドイズマイン (カラオケ)",
+      "artist": "supercell feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/08_ワールドイズマイン_(カラオケ)_supercell_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ワールドイズマイン (カラオケ)",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/09_ワールドイズマイン_(カラオケ)_supercell.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "アーリャ（CV：上坂すみれ）",
+      "has_synced": false,
+      "path": "select/10_ワールドイズマイン_アーリャ(CV_上坂すみれ).txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "アーリャ(CV:上坂すみれ)",
+      "has_synced": true,
+      "path": "select/11_ワールドイズマイン_アーリャ(CV_上坂すみれ).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ワールドイズマイン",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/12_ワールドイズマイン_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "World Is Mine [ワールドイズマイン]",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/13_World_Is_Mine_[ワールドイズマイン]_supercell.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ワールドイズマイン feat. 初音ミク",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/14_ワールドイズマイン_feat._初音ミク_supercell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワールドイズマイン (Game Version)",
+      "artist": "ryo Feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ワールドイズマイン_(Game_Version)_ryo_Feat._初音ミク.txt"
+    }
+  ]
+}
